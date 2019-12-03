@@ -124,7 +124,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-                    if(max>0.7)
+                    if(max < 0.7)
                     {
                         ResponseMessage responseMessage1 = new ResponseMessage("Cannot understand u ", false);
                         responseMessageList.add(responseMessage1);
