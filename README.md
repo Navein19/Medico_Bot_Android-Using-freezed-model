@@ -1,3 +1,4 @@
 # Medico_Bot-Andoid_app
 
 THIS IS AN ANDROID APPLICATION TO CHAT WITH AN AI DOCTOR
+![]/
